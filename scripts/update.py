@@ -54,8 +54,12 @@ def index():
 
 
 def render_flake(apps):
+    # git+https and not github:. The `github:` fetcher resolves a branch to a
+    # revision through api.github.com, and 89 of those exhaust the
+    # unauthenticated rate limit, so locking would need a token. git+https goes
+    # through git itself: no API, no token, works for anyone.
     inputs = "\n".join(
-        f'    {name}.url = "github:{ORG}/{meta["fork"]}/{BRANCH}";\n'
+        f'    {name}.url = "git+https://github.com/{ORG}/{meta["fork"]}.git?ref={BRANCH}";\n'
         f'    {name}.inputs.nixpkgs.follows = "nixpkgs";'
         for name, meta in apps.items()
     )
