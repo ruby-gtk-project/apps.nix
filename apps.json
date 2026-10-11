@@ -1,0 +1,625 @@
+{
+ "amberol-rb": {
+  "app": "Amberol",
+  "fork": "Amberol-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Amberol-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://gitlab.gnome.org/World/amberol"
+ },
+ "apostrophe-rb": {
+  "app": "Apostrophe",
+  "fork": "Apostrophe-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Apostrophe-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/ApostropheEditor/Apostrophe"
+ },
+ "audiosharing-rb": {
+  "app": "Audio Sharing",
+  "fork": "AudioSharing-rb",
+  "homepage": "https://github.com/ruby-gtk-project/AudioSharing-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://gitlab.gnome.org/World/AudioSharing"
+ },
+ "authenticator-rb": {
+  "app": "Authenticator",
+  "fork": "Authenticator-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Authenticator-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/bilelmoussaoui/Authenticator"
+ },
+ "baobab-rb": {
+  "app": "baobab",
+  "fork": "baobab-rb",
+  "homepage": "https://github.com/ruby-gtk-project/baobab-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/baobab"
+ },
+ "bazaar-rb": {
+  "app": "bazaar",
+  "fork": "bazaar-rb",
+  "homepage": "https://github.com/ruby-gtk-project/bazaar-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/bazaar-org/bazaar"
+ },
+ "biblioteca-rb": {
+  "app": "Biblioteca",
+  "fork": "Biblioteca-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Biblioteca-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/workbenchdev/Biblioteca"
+ },
+ "binary-rb": {
+  "app": "binary",
+  "fork": "binary-rb",
+  "homepage": "https://github.com/ruby-gtk-project/binary-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/fizzyizzy05/binary"
+ },
+ "blanket-rb": {
+  "app": "blanket",
+  "fork": "blanket-rb",
+  "homepage": "https://github.com/ruby-gtk-project/blanket-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/rafaelmardojai/blanket"
+ },
+ "boatswain-rb": {
+  "app": "Boatswain",
+  "fork": "Boatswain-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Boatswain-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://gitlab.gnome.org/World/boatswain"
+ },
+ "bobby-rb": {
+  "app": "Bobby",
+  "fork": "Bobby-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Bobby-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/hbons/Bobby"
+ },
+ "bustle-rb": {
+  "app": "bustle",
+  "fork": "bustle-rb",
+  "homepage": "https://github.com/ruby-gtk-project/bustle-rb",
+  "license": "LGPL-2.1-or-later AND GPL-3.0-only",
+  "upstream": "https://github.com/wjt/bustle"
+ },
+ "cartridges-rb": {
+  "app": "cartridges",
+  "fork": "cartridges-rb",
+  "homepage": "https://github.com/ruby-gtk-project/cartridges-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/kra-mo/cartridges"
+ },
+ "chess-clock-rb": {
+  "app": "Chess Clock",
+  "fork": "Chess-Clock-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Chess-Clock-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://gitlab.gnome.org/World/chess-clock"
+ },
+ "citations-rb": {
+  "app": "Citations",
+  "fork": "Citations-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Citations-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://gitlab.gnome.org/World/citations"
+ },
+ "clairvoyant-rb": {
+  "app": "clairvoyant",
+  "fork": "clairvoyant-rb",
+  "homepage": "https://github.com/ruby-gtk-project/clairvoyant-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/cassidyjames/clairvoyant"
+ },
+ "collision-rb": {
+  "app": "Collision",
+  "fork": "Collision-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Collision-rb",
+  "license": "BSD-2-Clause",
+  "upstream": "https://github.com/GeopJr/Collision"
+ },
+ "commit-rb": {
+  "app": "Commit",
+  "fork": "Commit-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Commit-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/sonnyp/Commit"
+ },
+ "console-rb": {
+  "app": "console",
+  "fork": "console-rb",
+  "homepage": "https://github.com/ruby-gtk-project/console-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/console"
+ },
+ "constrict-rb": {
+  "app": "Constrict",
+  "fork": "Constrict-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Constrict-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/Wartybix/Constrict"
+ },
+ "curtail-rb": {
+  "app": "Curtail",
+  "fork": "Curtail-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Curtail-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/Huluti/Curtail"
+ },
+ "decibels-rb": {
+  "app": "decibels",
+  "fork": "decibels-rb",
+  "homepage": "https://github.com/ruby-gtk-project/decibels-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/decibels"
+ },
+ "dialect-rb": {
+  "app": "dialect",
+  "fork": "dialect-rb",
+  "homepage": "https://github.com/ruby-gtk-project/dialect-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/dialect-app/dialect"
+ },
+ "drum-machine-rb": {
+  "app": "drum-machine",
+  "fork": "drum-machine-rb",
+  "homepage": "https://github.com/ruby-gtk-project/drum-machine-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/Revisto/drum-machine"
+ },
+ "eartag-rb": {
+  "app": "eartag",
+  "fork": "eartag-rb",
+  "homepage": "https://github.com/ruby-gtk-project/eartag-rb",
+  "license": "MIT",
+  "upstream": "https://github.com/serialuart/eartag"
+ },
+ "epiphany-rb": {
+  "app": "epiphany",
+  "fork": "epiphany-rb",
+  "homepage": "https://github.com/ruby-gtk-project/epiphany-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/epiphany"
+ },
+ "errands-rb": {
+  "app": "Errands",
+  "fork": "Errands-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Errands-rb",
+  "license": "MIT",
+  "upstream": "https://github.com/mrvladus/Errands"
+ },
+ "extension-manager-rb": {
+  "app": "Extension Manager",
+  "fork": "Extension-Manager-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Extension-Manager-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/mjakeman/extension-manager"
+ },
+ "eyedropper-rb": {
+  "app": "eyedropper",
+  "fork": "eyedropper-rb",
+  "homepage": "https://github.com/ruby-gtk-project/eyedropper-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/FineFindus/eyedropper"
+ },
+ "forge-sparks-rb": {
+  "app": "forge-sparks",
+  "fork": "forge-sparks-rb",
+  "homepage": "https://github.com/ruby-gtk-project/forge-sparks-rb",
+  "license": "MIT",
+  "upstream": "https://github.com/rafaelmardojai/forge-sparks"
+ },
+ "fretboard-rb": {
+  "app": "fretboard",
+  "fork": "fretboard-rb",
+  "homepage": "https://github.com/ruby-gtk-project/fretboard-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/bragefuglseth/fretboard"
+ },
+ "frogr-rb": {
+  "app": "frogr",
+  "fork": "frogr-rb",
+  "homepage": "https://github.com/ruby-gtk-project/frogr-rb",
+  "license": "GPL-3.0-only",
+  "upstream": "https://github.com/GNOME/frogr"
+ },
+ "gaphor-rb": {
+  "app": "gaphor",
+  "fork": "gaphor-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gaphor-rb",
+  "license": "Apache-2.0",
+  "upstream": "https://github.com/gaphor/gaphor"
+ },
+ "gnome-calculator-rb": {
+  "app": "gnome-calculator",
+  "fork": "gnome-calculator-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-calculator-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-calculator"
+ },
+ "gnome-calendar-rb": {
+  "app": "gnome-calendar",
+  "fork": "gnome-calendar-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-calendar-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-calendar"
+ },
+ "gnome-characters-rb": {
+  "app": "gnome-characters",
+  "fork": "gnome-characters-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-characters-rb",
+  "license": "BSD-3-Clause",
+  "upstream": "https://github.com/GNOME/gnome-characters"
+ },
+ "gnome-clocks-rb": {
+  "app": "gnome-clocks",
+  "fork": "gnome-clocks-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-clocks-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-clocks"
+ },
+ "gnome-connections-rb": {
+  "app": "gnome-connections",
+  "fork": "gnome-connections-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-connections-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-connections"
+ },
+ "gnome-contacts-rb": {
+  "app": "gnome-contacts",
+  "fork": "gnome-contacts-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-contacts-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-contacts"
+ },
+ "gnome-control-center-rb": {
+  "app": "gnome-control-center",
+  "fork": "gnome-control-center-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-control-center-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-control-center"
+ },
+ "gnome-disk-utility-rb": {
+  "app": "gnome-disk-utility",
+  "fork": "gnome-disk-utility-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-disk-utility-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-disk-utility"
+ },
+ "gnome-font-viewer-rb": {
+  "app": "gnome-font-viewer",
+  "fork": "gnome-font-viewer-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-font-viewer-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-font-viewer"
+ },
+ "gnome-logs-rb": {
+  "app": "gnome-logs",
+  "fork": "gnome-logs-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-logs-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-logs"
+ },
+ "gnome-mahjongg-rb": {
+  "app": "gnome-mahjongg",
+  "fork": "gnome-mahjongg-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-mahjongg-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-mahjongg"
+ },
+ "gnome-maps-rb": {
+  "app": "gnome-maps",
+  "fork": "gnome-maps-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-maps-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-maps"
+ },
+ "gnome-music-rb": {
+  "app": "gnome-music",
+  "fork": "gnome-music-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-music-rb",
+  "license": "GPL-2.0-or-later AND LGPL-2.0-or-later AND CC-BY-SA-4.0",
+  "upstream": "https://github.com/GNOME/gnome-music"
+ },
+ "gnome-podcasts-rb": {
+  "app": "gnome-podcasts",
+  "fork": "gnome-podcasts-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-podcasts-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/alatiera/gnome-podcasts"
+ },
+ "gnome-software-rb": {
+  "app": "gnome-software",
+  "fork": "gnome-software-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-software-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-software"
+ },
+ "gnome-system-monitor-rb": {
+  "app": "gnome-system-monitor",
+  "fork": "gnome-system-monitor-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-system-monitor-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-system-monitor"
+ },
+ "gnome-text-editor-rb": {
+  "app": "gnome-text-editor",
+  "fork": "gnome-text-editor-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-text-editor-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-text-editor"
+ },
+ "gnome-tour-rb": {
+  "app": "gnome-tour",
+  "fork": "gnome-tour-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-tour-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-tour"
+ },
+ "gnome-weather-rb": {
+  "app": "gnome-weather",
+  "fork": "gnome-weather-rb",
+  "homepage": "https://github.com/ruby-gtk-project/gnome-weather-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/gnome-weather"
+ },
+ "gradia-rb": {
+  "app": "Gradia",
+  "fork": "Gradia-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Gradia-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/AlexanderVanhee/Gradia"
+ },
+ "graphs-rb": {
+  "app": "Graphs",
+  "fork": "Graphs-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Graphs-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/sstendahl/Graphs"
+ },
+ "gtk-demos-and-examples": {
+  "app": "gtk-demos-and-examples",
+  "fork": "gtk-demos-and-examples",
+  "homepage": "https://github.com/ruby-gtk-project/gtk-demos-and-examples",
+  "license": "LGPL-2.1-or-later",
+  "upstream": "https://github.com/GNOME/gtk"
+ },
+ "hieroglyphic-rb": {
+  "app": "Hieroglyphic",
+  "fork": "Hieroglyphic-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Hieroglyphic-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/FineFindus/Hieroglyphic"
+ },
+ "impression-rb": {
+  "app": "Impression",
+  "fork": "Impression-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Impression-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/adhami3310/Impression"
+ },
+ "junction-rb": {
+  "app": "Junction",
+  "fork": "Junction-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Junction-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/sonnyp/Junction"
+ },
+ "keypunch-rb": {
+  "app": "keypunch",
+  "fork": "keypunch-rb",
+  "homepage": "https://github.com/ruby-gtk-project/keypunch-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/bragefuglseth/keypunch"
+ },
+ "loupe-rb": {
+  "app": "loupe",
+  "fork": "loupe-rb",
+  "homepage": "https://github.com/ruby-gtk-project/loupe-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/loupe"
+ },
+ "mousai-rb": {
+  "app": "Mousai",
+  "fork": "Mousai-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Mousai-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/SeaDve/Mousai"
+ },
+ "nautilus-rb": {
+  "app": "nautilus",
+  "fork": "nautilus-rb",
+  "homepage": "https://github.com/ruby-gtk-project/nautilus-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/nautilus"
+ },
+ "paper-clip-rb": {
+  "app": "Paper-Clip",
+  "fork": "Paper-Clip-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Paper-Clip-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/Diego-Ivan/Paper-Clip"
+ },
+ "papers-rb": {
+  "app": "papers",
+  "fork": "papers-rb",
+  "homepage": "https://github.com/ruby-gtk-project/papers-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/papers"
+ },
+ "pika-backup-rb": {
+  "app": "pika-backup",
+  "fork": "pika-backup-rb",
+  "homepage": "https://github.com/ruby-gtk-project/pika-backup-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/pika-backup/pika-backup"
+ },
+ "planify-rb": {
+  "app": "planify",
+  "fork": "planify-rb",
+  "homepage": "https://github.com/ruby-gtk-project/planify-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/alainm23/planify"
+ },
+ "polari-rb": {
+  "app": "polari",
+  "fork": "polari-rb",
+  "homepage": "https://github.com/ruby-gtk-project/polari-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/polari"
+ },
+ "raider-rb": {
+  "app": "raider",
+  "fork": "raider-rb",
+  "homepage": "https://github.com/ruby-gtk-project/raider-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/ADBeveridge/raider"
+ },
+ "resources-rb": {
+  "app": "resources",
+  "fork": "resources-rb",
+  "homepage": "https://github.com/ruby-gtk-project/resources-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/nokyan/resources"
+ },
+ "sessions-rb": {
+  "app": "sessions",
+  "fork": "sessions-rb",
+  "homepage": "https://github.com/ruby-gtk-project/sessions-rb",
+  "license": "AGPL-3.0-or-later",
+  "upstream": "https://github.com/pojntfx/sessions"
+ },
+ "share-preview-rb": {
+  "app": "share-preview",
+  "fork": "share-preview-rb",
+  "homepage": "https://github.com/ruby-gtk-project/share-preview-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/rafaelmardojai/share-preview"
+ },
+ "showtime-rb": {
+  "app": "showtime",
+  "fork": "showtime-rb",
+  "homepage": "https://github.com/ruby-gtk-project/showtime-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/showtime"
+ },
+ "simple-scan-rb": {
+  "app": "simple-scan",
+  "fork": "simple-scan-rb",
+  "homepage": "https://github.com/ruby-gtk-project/simple-scan-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/simple-scan"
+ },
+ "snapshot-rb": {
+  "app": "snapshot",
+  "fork": "snapshot-rb",
+  "homepage": "https://github.com/ruby-gtk-project/snapshot-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GNOME/snapshot"
+ },
+ "solanum-rb": {
+  "app": "Solanum",
+  "fork": "Solanum-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Solanum-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/BrainBlasted/Solanum"
+ },
+ "sudoku-rb": {
+  "app": "Sudoku",
+  "fork": "Sudoku-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Sudoku-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/sepehr-rs/Sudoku"
+ },
+ "switcheroo-rb": {
+  "app": "Switcheroo",
+  "fork": "Switcheroo-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Switcheroo-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/adhami3310/Switcheroo"
+ },
+ "tally-rb": {
+  "app": "tally",
+  "fork": "tally-rb",
+  "homepage": "https://github.com/ruby-gtk-project/tally-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/vtrlx/tally"
+ },
+ "tangram-rb": {
+  "app": "Tangram",
+  "fork": "Tangram-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Tangram-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/sonnyp/Tangram"
+ },
+ "textpieces-rb": {
+  "app": "textpieces",
+  "fork": "textpieces-rb",
+  "homepage": "https://github.com/ruby-gtk-project/textpieces-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/liferooter/textpieces"
+ },
+ "tuba-rb": {
+  "app": "Tuba",
+  "fork": "Tuba-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Tuba-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/GeopJr/Tuba"
+ },
+ "valuta-rb": {
+  "app": "valuta",
+  "fork": "valuta-rb",
+  "homepage": "https://github.com/ruby-gtk-project/valuta-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/ideveCore/Valuta"
+ },
+ "webfont-kit-generator-rb": {
+  "app": "webfont-kit-generator",
+  "fork": "webfont-kit-generator-rb",
+  "homepage": "https://github.com/ruby-gtk-project/webfont-kit-generator-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/rafaelmardojai/webfont-kit-generator"
+ },
+ "wike-rb": {
+  "app": "Wike",
+  "fork": "Wike-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Wike-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/hugolabe/Wike"
+ },
+ "wordbook-rb": {
+  "app": "Wordbook",
+  "fork": "Wordbook-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Wordbook-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/mufeedali/Wordbook"
+ },
+ "workbench": {
+  "app": "workbench",
+  "fork": "workbench",
+  "homepage": "https://github.com/ruby-gtk-project/workbench",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/workbenchdev/Workbench"
+ },
+ "workbench-demos": {
+  "app": "workbench-demos",
+  "fork": "workbench-demos",
+  "homepage": "https://github.com/ruby-gtk-project/workbench-demos",
+  "license": "CC0-1.0",
+  "upstream": "https://github.com/workbenchdev/demos"
+ },
+ "workbench-rb": {
+  "app": "Workbench",
+  "fork": "Workbench-rb",
+  "homepage": "https://github.com/ruby-gtk-project/Workbench-rb",
+  "license": "GPL-3.0-or-later",
+  "upstream": "https://github.com/workbenchdev/Workbench"
+ },
+ "yelp-rb": {
+  "app": "yelp",
+  "fork": "yelp-rb",
+  "homepage": "https://github.com/ruby-gtk-project/yelp-rb",
+  "license": "GPL-2.0-or-later",
+  "upstream": "https://github.com/GNOME/yelp"
+ }
+}
