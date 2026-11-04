@@ -404,11 +404,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793659926,
-        "narHash": "sha256-Xf+aLJ6xFmxdQWHnIGyiZ6QgemZVPxGeZ4CuA9ljfwU=",
+        "lastModified": 1793717232,
+        "narHash": "sha256-SOwIL23L8Rpe10BwHtIkKx9SpMV+goAAzFPRUa2IOaY=",
         "ref": "ruby",
-        "rev": "6f159c88fb2b7dca3c78f5c713cf4213583a079f",
-        "revCount": 33,
+        "rev": "ac2d5616b3fdc138b9c9624b7c89efb37a658ced",
+        "revCount": 34,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/console-rb.git"
       },
@@ -1101,11 +1101,11 @@
         "utils": "utils_39"
       },
       "locked": {
-        "lastModified": 1793644496,
-        "narHash": "sha256-KN42fNjT8U+7Gwrj1bypJUsMuNaEaLZa4DWDCYuD/68=",
+        "lastModified": 1793717229,
+        "narHash": "sha256-PeUPfKc2ReYf3FUtv6Cb7QccefaZ26mOi/SxGLCgPZw=",
         "ref": "ruby",
-        "rev": "48ed36699c2e187f8b93a5b690821feac78e8743",
-        "revCount": 16,
+        "rev": "b57f7e803358f6714fca04fa7b63b6d939326e67",
+        "revCount": 17,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-maps-rb.git"
       },
@@ -1123,11 +1123,11 @@
         "utils": "utils_40"
       },
       "locked": {
-        "lastModified": 1793663506,
-        "narHash": "sha256-O6x1y6n9gzPzyxKdbhntAUNcKS4ZEvJliguXpuDteI4=",
+        "lastModified": 1793717136,
+        "narHash": "sha256-UkRbg6ItjNNyfm4ueHgVVWWBsmYtZhIXsp8JJepbDZk=",
         "ref": "ruby",
-        "rev": "5e2098f33eb908a20c84ebb7b6d322135d0e8f48",
-        "revCount": 19,
+        "rev": "5f74549d344380ed3625cd4726f63e8c13fff30f",
+        "revCount": 20,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-music-rb.git"
       },
@@ -1365,11 +1365,11 @@
         "utils": "utils_50"
       },
       "locked": {
-        "lastModified": 1793658228,
-        "narHash": "sha256-iSxBIdNFy48bUCObUdZy1e7JY8Pu+d3A6BniZ+qPjIU=",
+        "lastModified": 1793717238,
+        "narHash": "sha256-e4Wbe5C4ki3ChLIAoObl7Wc8OMGXDBQpyOcQukjbHSI=",
         "ref": "ruby",
-        "rev": "06678bee479fca28e36d7001220591c53e2faff7",
-        "revCount": 21,
+        "rev": "a34fc0708c2f5b43e0722c369f8f5058c409adf3",
+        "revCount": 22,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Impression-rb.git"
       },
@@ -1491,11 +1491,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1793675756,
-        "narHash": "sha256-Mrn97nxs5QYyOAW19QZsZsKM2XZsgkZBrVcZ85P+B7M=",
+        "lastModified": 1793735720,
+        "narHash": "sha256-smoxPKrzAhdGuFd2LLnG4m8P6IrZuW95DVyzjnlab7w=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "9a6cbf4722bdbbef65f9e0400452ca088e31dc4b",
+        "rev": "9d3b8db48266c17be0b5f9c6360c3ecfbac3d1f5",
         "type": "github"
       },
       "original": {
@@ -1828,11 +1828,11 @@
         "utils": "utils_66"
       },
       "locked": {
-        "lastModified": 1793661545,
-        "narHash": "sha256-x40FDmbMsPN8u17NddaXIhxJRh+aAKzY+VdkB7mUSOI=",
+        "lastModified": 1793717235,
+        "narHash": "sha256-bpMqz9fmSIbykpYMs32cnynleNiZ5X57VnfqZD2w+gs=",
         "ref": "ruby",
-        "rev": "2cdcf273ee9665fb331ecfa5408c78916f1ff85f",
-        "revCount": 19,
+        "rev": "4d2f98f79d98ef6c4629788f5717c223718f9cfe",
+        "revCount": 20,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/simple-scan-rb.git"
       },
