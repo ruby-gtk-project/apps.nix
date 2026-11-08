@@ -8,11 +8,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1794026299,
-        "narHash": "sha256-O70AX107MOgbRoDOM7l4NJvGz+TfvmQ81eDJcy5bvCQ=",
+        "lastModified": 1794109715,
+        "narHash": "sha256-3v0HQXAV9L6G4maY9R8cr3PBPv4ibVOUz9GG3mbl1oA=",
         "ref": "ruby",
-        "rev": "07be937db8b40faceeaa932b9e7231826170a2c3",
-        "revCount": 20,
+        "rev": "9f093f322bce1c29b0afabf9918042ecb155053a",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Amberol-rb.git"
       },
@@ -30,11 +30,11 @@
         "utils": "utils_2"
       },
       "locked": {
-        "lastModified": 1794023089,
-        "narHash": "sha256-AK8iyjcmo1S2osTerK4OCkr3fpidt/Laiw/vp5GbB/s=",
+        "lastModified": 1794101665,
+        "narHash": "sha256-iL8Q+4Mz7Q3FU6pMB93QbYdFPvCPFwJ+hRVCchivUmU=",
         "ref": "ruby",
-        "rev": "f5c7a161ab659209b4f1d1bae42c62c2bfca1a7f",
-        "revCount": 23,
+        "rev": "ab2b9dd58c0affa8376ded27adecf33816eba1bc",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Apostrophe-rb.git"
       },
@@ -52,11 +52,11 @@
         "utils": "utils_3"
       },
       "locked": {
-        "lastModified": 1794013650,
-        "narHash": "sha256-BfIWUADcs5tpuVuqV894e5mJuj9HwWeqsysf9d2HBzU=",
+        "lastModified": 1794110826,
+        "narHash": "sha256-u7rrLE6bAw7L638wD/YDbQCAwNjjSTXyPg0ZLRKUn5Y=",
         "ref": "ruby",
-        "rev": "5577915b8cfb068f31fa634f3efb1585b92476bb",
-        "revCount": 18,
+        "rev": "d1dba9feaed5940e6af728e1a487e6ab5b965ae1",
+        "revCount": 27,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/AudioSharing-rb.git"
       },
@@ -74,11 +74,11 @@
         "utils": "utils_4"
       },
       "locked": {
-        "lastModified": 1794024934,
-        "narHash": "sha256-1CpBWBYMFO4W/ye9+ip+nYxQ78u5UaWGOqxh0ik3eb4=",
+        "lastModified": 1794112961,
+        "narHash": "sha256-OCaTIBbhZJgHcM+A/Ip2OhKdbm1LnV3/7OSb3FbLfk4=",
         "ref": "ruby",
-        "rev": "29fe4ba796a0d362e4861948702ebce62eaadbaa",
-        "revCount": 23,
+        "rev": "5b7a3eaff2710b183ebfcf2ee5e2743e5a6424c5",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Authenticator-rb.git"
       },
@@ -96,11 +96,11 @@
         "utils": "utils_5"
       },
       "locked": {
-        "lastModified": 1794024499,
-        "narHash": "sha256-Yt2ndmrPVqL1FewaxVOTTcdYpxy5y3uJTGQ/EH2S5Tk=",
+        "lastModified": 1794101657,
+        "narHash": "sha256-jTBnvY3LpJm2C0E4V6zw+O3abebs6roClMapTuYeZ7c=",
         "ref": "ruby",
-        "rev": "67885347905a00b9886d7b1c27cdb2aea44d4aac",
-        "revCount": 22,
+        "rev": "3492f2166e7dbdfe72438ff19aa3a19ac062e3e3",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/baobab-rb.git"
       },
@@ -118,11 +118,11 @@
         "utils": "utils_6"
       },
       "locked": {
-        "lastModified": 1794022711,
-        "narHash": "sha256-0wormnNF06eVPdqcTpva9i1h6LtJtsdsb6bEOdMQt0E=",
+        "lastModified": 1794109185,
+        "narHash": "sha256-y2QSCLwSdbmiAVqNotdtuOaC3WyXSvfAPLSqHB5n1Rc=",
         "ref": "ruby",
-        "rev": "2698ccc989a16940a17d494a849fefcd777a7a85",
-        "revCount": 20,
+        "rev": "a48e475f8b04bad17602780dbfa621b2c49a39bd",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/bazaar-rb.git"
       },
@@ -140,11 +140,11 @@
         "utils": "utils_7"
       },
       "locked": {
-        "lastModified": 1794023574,
-        "narHash": "sha256-DKYCsQ4NdalYAEtq+WRgvs6gKWuKdPmtffTntZz8XeY=",
+        "lastModified": 1794073932,
+        "narHash": "sha256-8r9VAhG1yAEVnT/kvQ7dLOjyB2lyJF5YDHPtGth5ib0=",
         "ref": "ruby",
-        "rev": "f0f1438ab12088711d341c04e647f65de4b1bb8b",
-        "revCount": 31,
+        "rev": "190ad109d76a1bbcbe4f2a65c45f3bf169debcf2",
+        "revCount": 37,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Biblioteca-rb.git"
       },
@@ -162,11 +162,11 @@
         "utils": "utils_8"
       },
       "locked": {
-        "lastModified": 1794025285,
-        "narHash": "sha256-vX61DZLlF4NMbBTSLRwwUQvmLuv1+uwYwGz02MQUZn0=",
+        "lastModified": 1794070913,
+        "narHash": "sha256-cZNoug3q90w4hFKe5Q3c8P7rI4H1iDOGefcLdsU1MDI=",
         "ref": "ruby",
-        "rev": "82bf316d2c20f60be39fa84895b20a820fc5e8f8",
-        "revCount": 30,
+        "rev": "7670ef3fc6d10e9e302df6eec046620f898a5c0b",
+        "revCount": 34,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/binary-rb.git"
       },
@@ -184,11 +184,11 @@
         "utils": "utils_9"
       },
       "locked": {
-        "lastModified": 1794026617,
-        "narHash": "sha256-oUyGhgjDlbr2+mJvpLuxiveiuotNS5ygghlT6GzQWd8=",
+        "lastModified": 1794112549,
+        "narHash": "sha256-0xyqTTqD0YXfUy1jcv6lOHnpwhGiZuTZ3xiDu/B8hj4=",
         "ref": "ruby",
-        "rev": "d49f71b9abb353bb4e37e577891fbf213a78ffcd",
-        "revCount": 24,
+        "rev": "72fe3c30fc5e219e0d95f8fecfd9631243c1835a",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/blanket-rb.git"
       },
@@ -206,11 +206,11 @@
         "utils": "utils_10"
       },
       "locked": {
-        "lastModified": 1794019620,
-        "narHash": "sha256-OxLvkOMjaxBriNyOpZlggdC90lZ7dpTQcfOC30TN8PM=",
+        "lastModified": 1794108138,
+        "narHash": "sha256-R89UhWrXEVYnt02KchrN1EFch9iXcXWJo+cuv1aK1fk=",
         "ref": "ruby",
-        "rev": "c079cada95e1b3aff1c3e4984ed1ed4bc75a7279",
-        "revCount": 19,
+        "rev": "32530c66b76f9da930bec198c94364d19671b8a8",
+        "revCount": 28,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Boatswain-rb.git"
       },
@@ -228,11 +228,11 @@
         "utils": "utils_11"
       },
       "locked": {
-        "lastModified": 1794022660,
-        "narHash": "sha256-RcH0LxIcuY7W3I7q+GzkJ7P9rOLwp0RIa3tK5XpWk8E=",
+        "lastModified": 1794069464,
+        "narHash": "sha256-Yv5kzkl8B8I6PkTDtXlLvDhc/RX/kcsPA4obZ2PVDpk=",
         "ref": "ruby",
-        "rev": "7dc464bfd3996680048a6b8ad44a3b5a415f6350",
-        "revCount": 33,
+        "rev": "b6e0ba5bb50efe9b616d5bbbdae5e0963034216b",
+        "revCount": 38,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Bobby-rb.git"
       },
@@ -250,11 +250,11 @@
         "utils": "utils_12"
       },
       "locked": {
-        "lastModified": 1794023113,
-        "narHash": "sha256-mtu7J4P2TToRceTjBEs3rh4QH0Gbx0bFH6GPswU9LGI=",
+        "lastModified": 1794085441,
+        "narHash": "sha256-zT9tWmzmugdD9Y2bpGBK3KiWtPmi5r/pKvJqnhxt4LI=",
         "ref": "ruby",
-        "rev": "d16661ed7098cf5c98edb473a00bdc6b2fa35a82",
-        "revCount": 31,
+        "rev": "4518f1f9339e557c0afa024eec345e928f31df52",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/bustle-rb.git"
       },
@@ -272,11 +272,11 @@
         "utils": "utils_13"
       },
       "locked": {
-        "lastModified": 1794026303,
-        "narHash": "sha256-Pb/bgi4+GtGBryAhhzj/gaEc53jGLL3a2Ui+y1gODio=",
+        "lastModified": 1794112934,
+        "narHash": "sha256-6FANI6n/2zU0MSu0+8VM+Z69aQ75+9UqrkE/3iKmnsQ=",
         "ref": "ruby",
-        "rev": "f3d5e905f24b39e773f13675349d99f3dcfd2445",
-        "revCount": 22,
+        "rev": "82782b0a0fdde1e6dde4780ec69dd796dbd76dc0",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/cartridges-rb.git"
       },
@@ -294,11 +294,11 @@
         "utils": "utils_14"
       },
       "locked": {
-        "lastModified": 1794021047,
-        "narHash": "sha256-TV3NvJ49y/pszislfs6Iks+tu2DnQybtgYyZMQjaCvI=",
+        "lastModified": 1794071303,
+        "narHash": "sha256-JtXd4z1EKbKAHjoZZ2AwD/7NWQQw5ru2tuV+ob7zLbw=",
         "ref": "ruby",
-        "rev": "e25a1b2e620c44544ebbc25db9a5b34f1aaae3ac",
-        "revCount": 29,
+        "rev": "986fdc1339efe0315ad09225bded18364b0b2bb4",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Chess-Clock-rb.git"
       },
@@ -316,11 +316,11 @@
         "utils": "utils_15"
       },
       "locked": {
-        "lastModified": 1794021267,
-        "narHash": "sha256-m0r0Ha+ha46pPIHDr4kcZq5dO+HMPlnkiR8QYPFh5Mo=",
+        "lastModified": 1794110772,
+        "narHash": "sha256-IEGVpDR5s0098XkRIMwuU8hpMU9iujgyEOxrH4IKo54=",
         "ref": "ruby",
-        "rev": "e4ebd9f4bc93da25582ed5f78d9e745d93323f2f",
-        "revCount": 21,
+        "rev": "ecb0f7da38b278f0b46f4655de91414f0a6c7bd6",
+        "revCount": 29,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Citations-rb.git"
       },
@@ -338,11 +338,11 @@
         "utils": "utils_16"
       },
       "locked": {
-        "lastModified": 1794021443,
-        "narHash": "sha256-mtbXzfkjPcyzIbtmrdY+YN13w7QmBljt5gZWtfTriUk=",
+        "lastModified": 1794114138,
+        "narHash": "sha256-SN38raKchor4PVHbguvUPZQ9/Wl7voJCZ1YeK5b9IGo=",
         "ref": "ruby",
-        "rev": "8f97156902f54c629881df0e6db53f3976796e27",
-        "revCount": 23,
+        "rev": "e397b5ac5bce7422358c5e40a239ee468f84b241",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/clairvoyant-rb.git"
       },
@@ -360,11 +360,11 @@
         "utils": "utils_17"
       },
       "locked": {
-        "lastModified": 1794022305,
-        "narHash": "sha256-TBgVxD83d831v8da1aIfvxmhIN4sis6Kf2VOyNWV3Nc=",
+        "lastModified": 1794113104,
+        "narHash": "sha256-s6WW7ewGLSUhsnzKcilTWqli2t7m4SLajglcFjXFgWw=",
         "ref": "ruby",
-        "rev": "aab69515325e46f71d82d64a3169cdc800763890",
-        "revCount": 24,
+        "rev": "3eb5ad63b41f7031894834f3af0f08b0d462ed7c",
+        "revCount": 27,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Collision-rb.git"
       },
@@ -382,11 +382,11 @@
         "utils": "utils_18"
       },
       "locked": {
-        "lastModified": 1794018129,
-        "narHash": "sha256-MyPW+pDY+/cEyT5bOlAWjGgRYhOxzstndlMxLtfBHzw=",
+        "lastModified": 1794112584,
+        "narHash": "sha256-xDB8utB6kXngzoumKLrZVNeKJ0oTDqyqXHXRGU8q8yk=",
         "ref": "ruby",
-        "rev": "e5a1062b00b3da1c75e8671fd2baebf247e0fbc1",
-        "revCount": 24,
+        "rev": "731945ac7ec8df3d12c9932cdb28ddf84da219f7",
+        "revCount": 28,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Commit-rb.git"
       },
@@ -404,11 +404,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794026277,
-        "narHash": "sha256-KSqxS8oafAFnSaUl2LdschIHqfweKJUaGyR1X7/mnrw=",
+        "lastModified": 1794105724,
+        "narHash": "sha256-AugK5jGHv3c+kpba8MnvgZL+g1FPIDRmbwOmrvbRsLE=",
         "ref": "ruby",
-        "rev": "2b33b04f2773436bf3c61d76808b20446fa236b3",
-        "revCount": 38,
+        "rev": "93fd3c61ac8a578bfb75571922f9a47eb5905ddb",
+        "revCount": 48,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/console-rb.git"
       },
@@ -426,11 +426,11 @@
         "utils": "utils_19"
       },
       "locked": {
-        "lastModified": 1794010929,
-        "narHash": "sha256-pPNLKaUQEWRBgRQLHVFevpzhyTcOdVggYcfCeLZctd0=",
+        "lastModified": 1794113569,
+        "narHash": "sha256-yr9ltnzw3v2mvLXHLWtLSRZNoM3kdmaz7l0zWa4/e8c=",
         "ref": "ruby",
-        "rev": "2592a7002b2970a4a17fac19418da26898e01e05",
-        "revCount": 22,
+        "rev": "50ebbf228dddecf8e54d5e8bbea100c62da16809",
+        "revCount": 29,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Constrict-rb.git"
       },
@@ -448,11 +448,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794019402,
-        "narHash": "sha256-+h0sd0+GtkFOiR1TpI0Im3hgS1iIH75bKpH6QtW1wYg=",
+        "lastModified": 1794113820,
+        "narHash": "sha256-daKt/4dZ7JL+y/FxptFrC/B45HZ9T13y55NmKBi3LB8=",
         "ref": "ruby",
-        "rev": "f6a417db8d4540c2a8f751c4819d6ef2bfb9f65e",
-        "revCount": 24,
+        "rev": "8347e041ee89d1a2fa7923857f373c8c45a4497f",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Curtail-rb.git"
       },
@@ -470,11 +470,11 @@
         "utils": "utils_20"
       },
       "locked": {
-        "lastModified": 1794018721,
-        "narHash": "sha256-aAlkYybiX1iPMOha34Ll+m3kXSP5qW5hZWLePgN5JUI=",
+        "lastModified": 1794110199,
+        "narHash": "sha256-pqivpyCqYk5mVlQ7bljlJjGHEWh24qTbgeW98WniKfY=",
         "ref": "ruby",
-        "rev": "10b926ad026e46ef15b2efbb78b3c592e970d841",
-        "revCount": 20,
+        "rev": "65f91c318f48ee2bbce2c7caa89dbb5f69127001",
+        "revCount": 28,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/decibels-rb.git"
       },
@@ -492,11 +492,11 @@
         "utils": "utils_21"
       },
       "locked": {
-        "lastModified": 1794009669,
-        "narHash": "sha256-K/dklj2THuYUA6w3DL5/YrPNEuDFRcUpTeKJSb26NSk=",
+        "lastModified": 1794114026,
+        "narHash": "sha256-dy0NqQrJOaiWOPKeIuvx5oSXm9Amq/8ckwJvaJ7qjVU=",
         "ref": "ruby",
-        "rev": "e4ffcd9913f7082038f979fe3b74d9f376684046",
-        "revCount": 22,
+        "rev": "bc081bb2219e93ec6c9b0030ee5bf3a94a2d5d2a",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/dialect-rb.git"
       },
@@ -514,11 +514,11 @@
         "utils": "utils_22"
       },
       "locked": {
-        "lastModified": 1794024322,
-        "narHash": "sha256-PcA5WQdJO4TCKjh6/BPudG8VCA+X0VKLuPkBd238mCU=",
+        "lastModified": 1794111148,
+        "narHash": "sha256-A5dBy1K+f7cn/l5b1GouBwY8Ruep2ElnU0mPEuQ3zRA=",
         "ref": "ruby",
-        "rev": "8ef49f3e46c567a961919ab589c61bc5f7158d84",
-        "revCount": 21,
+        "rev": "7595331f01f2d8cc195b0b9953d2f4934ee34a58",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/drum-machine-rb.git"
       },
@@ -536,11 +536,11 @@
         "utils": "utils_23"
       },
       "locked": {
-        "lastModified": 1794023799,
-        "narHash": "sha256-Jgf9QlyxNvxSAITLwAkRH9AWY1SDjkaow+ORucYm260=",
+        "lastModified": 1794103082,
+        "narHash": "sha256-OPDAg7qXByW2IFucDHkzJ4yPBpTHDGdfhtECjjuC2Wo=",
         "ref": "ruby",
-        "rev": "a0ba5d340dd28c473daaf096a2dce071e1b8197a",
-        "revCount": 20,
+        "rev": "3e92b907bf9b46fbb8c579334a4b2086c51f04ae",
+        "revCount": 29,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/eartag-rb.git"
       },
@@ -558,11 +558,11 @@
         "utils": "utils_24"
       },
       "locked": {
-        "lastModified": 1794022952,
-        "narHash": "sha256-/OLCy5aeIfT1hU/dQT3X/+vu+UTKFwYpfPKaYl1kyGw=",
+        "lastModified": 1794110235,
+        "narHash": "sha256-R2Ty1JH2XT+hNlzSsbKNFv2LuLR5DEk0l9pSw1zGbZg=",
         "ref": "ruby",
-        "rev": "98302fc36622ef0a0ff8e6fd352dd16081c6bf89",
-        "revCount": 21,
+        "rev": "66065d72296c46baacc9fba45c45c86fd6fe4251",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/epiphany-rb.git"
       },
@@ -580,11 +580,11 @@
         "utils": "utils_25"
       },
       "locked": {
-        "lastModified": 1794025135,
-        "narHash": "sha256-ECaOWLOpMFLyx4wnwWk/+5rmxyyV/VZ1hzX5YD5F55w=",
+        "lastModified": 1794112150,
+        "narHash": "sha256-pZ8P4FNiP8JkOsZYXcBQxHlL88AYup8c66T4GPuSTZM=",
         "ref": "ruby",
-        "rev": "2aa75f9488072dab82c86f7e4c41e9ee57d045f1",
-        "revCount": 23,
+        "rev": "d42b5e85126b0705c78f6577cbff9bb77bf58d4a",
+        "revCount": 36,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Errands-rb.git"
       },
@@ -602,11 +602,11 @@
         "utils": "utils_26"
       },
       "locked": {
-        "lastModified": 1794020908,
-        "narHash": "sha256-a8o5mrfp2fV5KrGIq6+x8MU2CdxTpbCDWCPenZYxIJg=",
+        "lastModified": 1794106024,
+        "narHash": "sha256-VRO1iJv55SrWpiRaLe7dx3c+5u4KcdyvSf3cC67J/bM=",
         "ref": "ruby",
-        "rev": "f0c0a2930eb17324bdd47e29b6fc27167e56e8c8",
-        "revCount": 21,
+        "rev": "ecbdfea7ef20de3e3c76a2bd0b72d8bd87018d81",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Extension-Manager-rb.git"
       },
@@ -624,11 +624,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794025864,
-        "narHash": "sha256-QYVsdIY0b9SZynjuhNs9NmsQAqjfu74xS1jGwD2SDSE=",
+        "lastModified": 1794100968,
+        "narHash": "sha256-WQr1hT+1AAI1RdAH2GvYoAptTXcov+P6cIt84kBRwdc=",
         "ref": "ruby",
-        "rev": "03c44c9452020c8bbaa47f68ffc6a06a8730ed3d",
-        "revCount": 23,
+        "rev": "bc9cb10ee29d88bd64b29f014a39e01f984dce13",
+        "revCount": 29,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/eyedropper-rb.git"
       },
@@ -772,11 +772,11 @@
         "utils": "utils_27"
       },
       "locked": {
-        "lastModified": 1794014174,
-        "narHash": "sha256-VQGZ1fW94AkBIYg0c4AUce9BmblFCHMWZGwvZIJnJr0=",
+        "lastModified": 1794111958,
+        "narHash": "sha256-GoJC13VwqZvQvVYbrokMp2K47By+9hBfORovoOrzdUg=",
         "ref": "ruby",
-        "rev": "15de388bdceea9e7ebabcc07dcaa509183709848",
-        "revCount": 23,
+        "rev": "b34c9af4ed357857eaef889041ad193a6ed3e104",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/forge-sparks-rb.git"
       },
@@ -794,11 +794,11 @@
         "utils": "utils_28"
       },
       "locked": {
-        "lastModified": 1794023620,
-        "narHash": "sha256-6aujv6Hmd63T8P31AP4XhsgRmo+jrhdW6dvwwQ+m0ws=",
+        "lastModified": 1794110652,
+        "narHash": "sha256-q8yYxgXNORM4X540sX+x+w5XYS562kGSEEBCTc3zFIY=",
         "ref": "ruby",
-        "rev": "98a1ac635be8b3da536b16a73f34add1789730ca",
-        "revCount": 21,
+        "rev": "0aeb2007cc58d903b76220a6e8e5c8fddbe36414",
+        "revCount": 28,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/fretboard-rb.git"
       },
@@ -837,11 +837,11 @@
         "utils": "utils_29"
       },
       "locked": {
-        "lastModified": 1794023525,
-        "narHash": "sha256-AmFIZRcM2Lk1HJKVGgEStlkHpCdPBNcjhJ4egk5b070=",
+        "lastModified": 1794112550,
+        "narHash": "sha256-yK3DGQLSCDbni93MUu/RgCo/0ISkvfudgt9eGgUa7uM=",
         "ref": "ruby",
-        "rev": "d9f872d036e1081be4d2a669ce9595be7f70ee4d",
-        "revCount": 21,
+        "rev": "6d4415cb310a970786e630ac23f76980768b0500",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gaphor-rb.git"
       },
@@ -859,11 +859,11 @@
         "utils": "utils_30"
       },
       "locked": {
-        "lastModified": 1794025603,
-        "narHash": "sha256-w6IChAl6hLdpreWGNhuSjFlYCFfD/NHp/Amg3VGd+yU=",
+        "lastModified": 1794112813,
+        "narHash": "sha256-jHHMof06ZXyHc0D9zSJtDazSv5gKxdYsZeESYUjyEJo=",
         "ref": "ruby",
-        "rev": "e0ed39359f5c4677d62a0da8cab4429876049be0",
-        "revCount": 22,
+        "rev": "f230ccf065848382e14bebede34e53894a520d07",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-calculator-rb.git"
       },
@@ -881,11 +881,11 @@
         "utils": "utils_31"
       },
       "locked": {
-        "lastModified": 1794023061,
-        "narHash": "sha256-v8onEk1wpLD7TI63ej7wmeEnCnot0UgLnuRn/CqgPWk=",
+        "lastModified": 1794108055,
+        "narHash": "sha256-b3ig8Irt8uJzsyJjeXELeXLf6lMB5YBvNbV31AShylE=",
         "ref": "ruby",
-        "rev": "02517b62b2a591cf90d45eebd1ac04dee68cc1d3",
-        "revCount": 23,
+        "rev": "8c47141cc4626b6a895a22854f2af42d660ee7af",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-calendar-rb.git"
       },
@@ -903,11 +903,11 @@
         "utils": "utils_32"
       },
       "locked": {
-        "lastModified": 1794026225,
-        "narHash": "sha256-ZFpTA+PZVZWP5DgZdMClDT+dGUksacKjJrn4IP/qYfo=",
+        "lastModified": 1794106886,
+        "narHash": "sha256-KiVSbmoOqKVVJqQC3qLmvJP1cIlHEWb3bY7ad5K79jg=",
         "ref": "ruby",
-        "rev": "3fc46f82abab447d12569d35de78a56c48a263be",
-        "revCount": 23,
+        "rev": "76731235119f47ba1b554ea6926aeaf29f3e90d6",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-characters-rb.git"
       },
@@ -925,11 +925,11 @@
         "utils": "utils_33"
       },
       "locked": {
-        "lastModified": 1794019060,
-        "narHash": "sha256-EXoMMII8M7ON5Y+HxzEGVL5ZSJAikR/e7qUyKLl7lBw=",
+        "lastModified": 1794111096,
+        "narHash": "sha256-XEFbBCBfCC16RN348+IMwDsWawA3kCjJ5vuZXpYuZek=",
         "ref": "ruby",
-        "rev": "bbbe8322b149012753a755d8e762a5fcde66afe4",
-        "revCount": 23,
+        "rev": "40bd6b148b1eb615ddabdd6baa4754a9b39e2ebb",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-clocks-rb.git"
       },
@@ -947,11 +947,11 @@
         "utils": "utils_34"
       },
       "locked": {
-        "lastModified": 1794011842,
-        "narHash": "sha256-wHbiQzMtkqvvMdBsHiBtNlCuS+EgUapEkjDp6BX48uA=",
+        "lastModified": 1794113353,
+        "narHash": "sha256-q+sq1SFmW1KtuXknZE4JDQBVLcOJ0KsnepreEACe5BQ=",
         "ref": "ruby",
-        "rev": "868dba99dcb56e3011c10e5d96992d60899fa8ba",
-        "revCount": 19,
+        "rev": "ceecd6344507d65fcb554c4864ce115a4e423a03",
+        "revCount": 24,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-connections-rb.git"
       },
@@ -969,11 +969,11 @@
         "utils": "utils_35"
       },
       "locked": {
-        "lastModified": 1794024273,
-        "narHash": "sha256-HB4vu1gWrr1uArApvSYvZB7cLuEZRmtQLyvDgijEju0=",
+        "lastModified": 1794105387,
+        "narHash": "sha256-Q1uTdJ+6QdtJaWQfosoKDbehIN8GuqzsA0Mxs78gKsM=",
         "ref": "ruby",
-        "rev": "1bb91184c4e48e44fcf42132ec2735cad0db1767",
-        "revCount": 28,
+        "rev": "11268018a0ee57c93f44c369a2fcf1d6645823f6",
+        "revCount": 39,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-contacts-rb.git"
       },
@@ -991,11 +991,11 @@
         "utils": "utils_36"
       },
       "locked": {
-        "lastModified": 1794023819,
-        "narHash": "sha256-t1gW56Di7ndpS+4h5KOfrTmIsQhiFoG6d9K/2kJfQLE=",
+        "lastModified": 1794111643,
+        "narHash": "sha256-6lp23gcIP6mpkRdtNiMBdbyc60yNJF0d4VSlSIgVVRw=",
         "ref": "ruby",
-        "rev": "95d939704ee381c8ca9e10a2dc7d0859e96aa01c",
-        "revCount": 21,
+        "rev": "beac9f0453ef3a1cdd39afd99e85de2dc471023b",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-control-center-rb.git"
       },
@@ -1013,11 +1013,11 @@
         "utils": "utils_37"
       },
       "locked": {
-        "lastModified": 1794021136,
-        "narHash": "sha256-oYLRzveNw6yBvPw/nlGFLgLouRFeQEdnheDkVda7ajs=",
+        "lastModified": 1794105982,
+        "narHash": "sha256-ogSAT84AtKO5Oq9gHtQCiIRoSG86WKaw8XE/uJVx4LM=",
         "ref": "ruby",
-        "rev": "2632264e8d855d6474bae83b3fecf54c85ee439c",
-        "revCount": 24,
+        "rev": "11e242e7c9a9718446d57bd4cc5806b9ef20695c",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-disk-utility-rb.git"
       },
@@ -1035,11 +1035,11 @@
         "utils": "utils_38"
       },
       "locked": {
-        "lastModified": 1794024705,
-        "narHash": "sha256-CJAEjp7qYWq3c4nmRRViiZKwxZtEtd09Pz+Ewn1Gnnw=",
+        "lastModified": 1794107656,
+        "narHash": "sha256-SkClmbgCkjIKZaoz6Dkj5a8uKakhnvAzoGrUXgFDUmA=",
         "ref": "ruby",
-        "rev": "2c88d467a2d23e228a1b2cdc9c198da251459cec",
-        "revCount": 21,
+        "rev": "63baa0aec686721a0720673706845aba8708557c",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-font-viewer-rb.git"
       },
@@ -1057,11 +1057,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794022029,
-        "narHash": "sha256-kPhxAJ4mJqxyrA4/LRPP5Mz8k4eNZr4dbf6cW0Yi7Sc=",
+        "lastModified": 1794104224,
+        "narHash": "sha256-BwhZGTMN+hwDZ6bKN3azfq2pNjOqnFZIufAMrE3P7Ig=",
         "ref": "ruby",
-        "rev": "dd672c471732bc24b676e0ab6e3b6cd6a74cea5e",
-        "revCount": 22,
+        "rev": "51a54098ac74e9136cbf10119a8f0ed76ffcda6b",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-logs-rb.git"
       },
@@ -1079,11 +1079,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793656834,
-        "narHash": "sha256-cZFzmVLmjpQTUzZFmrVz66a5gObPRBzdJ70pueEXxIw=",
+        "lastModified": 1794103611,
+        "narHash": "sha256-Urm1oiEdBh3JAotyBhmVf84i5ViYgP8OWlqAh22K3x0=",
         "ref": "ruby",
-        "rev": "8b23e33dfe22fb886934419a3eb9314c50119920",
-        "revCount": 21,
+        "rev": "75cac5943d9e32606fb2ad99049fda745e0f2690",
+        "revCount": 27,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-mahjongg-rb.git"
       },
@@ -1101,11 +1101,11 @@
         "utils": "utils_39"
       },
       "locked": {
-        "lastModified": 1794023658,
-        "narHash": "sha256-vOIzTBHXKifON2ZMdA/CahJ+sL7azZH3MMIuS3Cj6k4=",
+        "lastModified": 1794109690,
+        "narHash": "sha256-NLqa+wF2IkONzc2GuELtALKOXUPPnXufBcvclJvf1Bs=",
         "ref": "ruby",
-        "rev": "0eb429361458a4638bd1bbf4ee290f09600be7a7",
-        "revCount": 21,
+        "rev": "91287af613a87218f26b06b0932eeb706bc3c292",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-maps-rb.git"
       },
@@ -1123,11 +1123,11 @@
         "utils": "utils_40"
       },
       "locked": {
-        "lastModified": 1794025997,
-        "narHash": "sha256-4DlCByoGk3ZsEhxMFNVNQoMxY6dFLVouHOvcsfZeMNs=",
+        "lastModified": 1794107019,
+        "narHash": "sha256-rLi+w4Icfi1+0VHTj2KRyxDZ9ArbeUI4FJC/t6Jli1g=",
         "ref": "ruby",
-        "rev": "c0847d38265e496b2c64475dd4294626ba2ecbb7",
-        "revCount": 24,
+        "rev": "c56890335a813c4b4c1c35bee3b341a4d6aacefc",
+        "revCount": 34,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-music-rb.git"
       },
@@ -1145,11 +1145,11 @@
         "utils": "utils_41"
       },
       "locked": {
-        "lastModified": 1794024429,
-        "narHash": "sha256-q3p3Q9QCfaF3cPLigQPxcxAJ9jjprioc3lqOEGwR90A=",
+        "lastModified": 1794113468,
+        "narHash": "sha256-43XaZ9s2fHBIgjLY28NV+uBOSq+3GUu6Won+uj6auAM=",
         "ref": "ruby",
-        "rev": "4baf0f2204142d01d11f736ebd8f683f44865a96",
-        "revCount": 25,
+        "rev": "cfb0365ab3993745416ea0ced48a2e2672ecab1c",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-podcasts-rb.git"
       },
@@ -1167,11 +1167,11 @@
         "utils": "utils_42"
       },
       "locked": {
-        "lastModified": 1794022708,
-        "narHash": "sha256-O7wzt2VibWK0DmIFnkuq0tK0NVx/0UT3nZBoTZnN9OQ=",
+        "lastModified": 1794112143,
+        "narHash": "sha256-31yRW9yKVGIGOk9EVkOe3m9gmUI2IAOzLNqJOVUaJ0g=",
         "ref": "ruby",
-        "rev": "dfd327329913048fca8a94bd2a9fd8cfe43bcae5",
-        "revCount": 19,
+        "rev": "38f2450440ec9aef5d9e4a64e412b38fe89c5f5e",
+        "revCount": 29,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-software-rb.git"
       },
@@ -1189,11 +1189,11 @@
         "utils": "utils_43"
       },
       "locked": {
-        "lastModified": 1794022297,
-        "narHash": "sha256-UuT/4hOoY1OfzkIxHYTTPXBo1r2lz0O5sqqnedLqj8o=",
+        "lastModified": 1794107251,
+        "narHash": "sha256-IXqdbgmGd4/UlRhhTJau41my7g5VAl0pkdht1t1Eoto=",
         "ref": "ruby",
-        "rev": "d651749d3075370be02e988fd32f7da90a5a8813",
-        "revCount": 22,
+        "rev": "60d32b63300f72954684ef5daca08aee68db0079",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-system-monitor-rb.git"
       },
@@ -1211,11 +1211,11 @@
         "utils": "utils_44"
       },
       "locked": {
-        "lastModified": 1794021799,
-        "narHash": "sha256-K1PnJOeAj4UyMJtqQ1H6t6PgcctBbYDAhE0iXFFU07Q=",
+        "lastModified": 1794109223,
+        "narHash": "sha256-5aoF0bDXnYWIBxDAhgwCpO+VO+nFFlT6i7mBQFCpm6A=",
         "ref": "ruby",
-        "rev": "16179ac7f934c468930d22687508242d389e0bd8",
-        "revCount": 25,
+        "rev": "488e49ef32dc98a831e4c5879b808030b7d88fc8",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-text-editor-rb.git"
       },
@@ -1233,11 +1233,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794015332,
-        "narHash": "sha256-Kzj+hoJoKCCewKHlUYde9M7SQn81FoPQsnk/75FOCR8=",
+        "lastModified": 1794100207,
+        "narHash": "sha256-tVw8XXPWEWc2Dw9VKni0NqpIQK+KT4avby61ZmF3dzo=",
         "ref": "ruby",
-        "rev": "0be6565984df3cf9f6c89a8ec71e5702b9ddd4f7",
-        "revCount": 24,
+        "rev": "4ed264511f37f18c67389197ca90681563894cf0",
+        "revCount": 28,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-tour-rb.git"
       },
@@ -1255,11 +1255,11 @@
         "utils": "utils_45"
       },
       "locked": {
-        "lastModified": 1794016650,
-        "narHash": "sha256-m4tzbwSwvFnb9YkLISLqRq9lF6dOfqb9bYTB8dzJRrY=",
+        "lastModified": 1794113874,
+        "narHash": "sha256-jDKh9dFiJe9vn4Ea/Aq017n37nfe/BPypJsCnm0p040=",
         "ref": "ruby",
-        "rev": "c49521e61cad4f53d878513264da3716f3ea4c88",
-        "revCount": 21,
+        "rev": "fa0b1fb89a85a06801bb4d692b5bdd27d3da78f5",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/gnome-weather-rb.git"
       },
@@ -1277,11 +1277,11 @@
         "utils": "utils_46"
       },
       "locked": {
-        "lastModified": 1794021174,
-        "narHash": "sha256-avZsiQxadyLxEd/bQmW2e6kzsOzsSzf7hjdDneDMS84=",
+        "lastModified": 1794113875,
+        "narHash": "sha256-eTqCfUyJTMnCc/Ak14OO1dsZJBVIVZRbgLqmq4cpkUA=",
         "ref": "ruby",
-        "rev": "20a02d697a27b09c91ea32106df421f0d79cd441",
-        "revCount": 23,
+        "rev": "b77823e2bb0bf9a9e16547c2442a0e7356edaa67",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Gradia-rb.git"
       },
@@ -1299,11 +1299,11 @@
         "utils": "utils_47"
       },
       "locked": {
-        "lastModified": 1794020304,
-        "narHash": "sha256-hFyslkLOzI4Bh0GEdT7Sc0pLZYPygzU7eMx/VFoaCcA=",
+        "lastModified": 1794112303,
+        "narHash": "sha256-mGKZfbVOYd9Njp/xtEqKLmdg6lxNzGQDwF8n+pec8As=",
         "ref": "ruby",
-        "rev": "8915152e55407d8a501a69ec0f195a013eb9979a",
-        "revCount": 24,
+        "rev": "e8f2430a1b4a9386c968f12bcbb9e22d8065c8e1",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Graphs-rb.git"
       },
@@ -1343,11 +1343,11 @@
         "utils": "utils_49"
       },
       "locked": {
-        "lastModified": 1794021957,
-        "narHash": "sha256-FuQNshVl/plUjsUryiv3as2mBROLFZ+N4S+XtEMN+Os=",
+        "lastModified": 1794114136,
+        "narHash": "sha256-oA2EOxN20ynnFCljEegOiAGOWAzs8juRDvKOf5w9V6k=",
         "ref": "ruby",
-        "rev": "e93e8ce17f2eebdeba5c227ba80787ef3d32a521",
-        "revCount": 23,
+        "rev": "a59e91fae95a0958d911508e441c041466df7fff",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Hieroglyphic-rb.git"
       },
@@ -1365,11 +1365,11 @@
         "utils": "utils_50"
       },
       "locked": {
-        "lastModified": 1794010692,
-        "narHash": "sha256-wjdCuAUc7oEvQA/8M+vDXCq6ByPpEbvluqYJ5UsRdFc=",
+        "lastModified": 1794102542,
+        "narHash": "sha256-CDusiMc9Q7IZd7w9OVp/Nq4i7h/dq8LkekFgkLg33Wg=",
         "ref": "ruby",
-        "rev": "6fd1c0648850ae78719216ed2f4a4e9739b3b8ef",
-        "revCount": 26,
+        "rev": "eb60e39073bfaf92df6e97cdb4bb0a8d6302ab3a",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Impression-rb.git"
       },
@@ -1387,11 +1387,11 @@
         "utils": "utils_51"
       },
       "locked": {
-        "lastModified": 1794024291,
-        "narHash": "sha256-6c2LJlUsLJfixL0e9Xut7fqFzOOAbEAKw92Uf3ll5mg=",
+        "lastModified": 1794070651,
+        "narHash": "sha256-l4lrv04ZUK70h4dO9k7SHEEbnp9O39rBlY6Ty/FiOUo=",
         "ref": "ruby",
-        "rev": "4b2fb97b0d5c20cc9af03888bb7fb44515f24925",
-        "revCount": 34,
+        "rev": "a5acb5082a22b3a171e7eec71ad3bc14cc0b2c04",
+        "revCount": 39,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Junction-rb.git"
       },
@@ -1409,11 +1409,11 @@
         "utils": "utils_52"
       },
       "locked": {
-        "lastModified": 1793665078,
-        "narHash": "sha256-xJ1j/PX5+524Cemylz53EedFvryWKqWvFZA0swSW7oA=",
+        "lastModified": 1794111701,
+        "narHash": "sha256-camHk8cjQ0/kEGmKfqRX6TUAuyzvJA1c9BhR6s9AU30=",
         "ref": "ruby",
-        "rev": "bf0d79d7bdb84fb43e1ea981bdcb34a78a7302ab",
-        "revCount": 20,
+        "rev": "ace5a2a535e0820bc9a12767eda670502ae1cd17",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/keypunch-rb.git"
       },
@@ -1431,11 +1431,11 @@
         "utils": "utils_53"
       },
       "locked": {
-        "lastModified": 1794018931,
-        "narHash": "sha256-xzdTpw8V3iz5OMOOHIvNZRyYwsY0ddz3pjO52pXangg=",
+        "lastModified": 1794105660,
+        "narHash": "sha256-aUf7H3ZLqnOKNW0BQByZQ5KJUh6ppGIQqg8spRUUDdY=",
         "ref": "ruby",
-        "rev": "14a7f5f8fa34afccf7cef92f14088244cbeaa19a",
-        "revCount": 21,
+        "rev": "afd62a62d4b462a5f5050dc64a20373677781dba",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/loupe-rb.git"
       },
@@ -1453,11 +1453,11 @@
         "utils": "utils_54"
       },
       "locked": {
-        "lastModified": 1794023468,
-        "narHash": "sha256-81Ud6a7rwJ1PtxBju3n9z5oho1A8RM/6Cmjk6QNcQjw=",
+        "lastModified": 1794104298,
+        "narHash": "sha256-twxAIUVeNNGMPKs3K3ZMy7hmvgxs8pP9CEvS4sRh0ho=",
         "ref": "ruby",
-        "rev": "f2f6dcaac1c6303e267fb166aa1b045939b164ab",
-        "revCount": 23,
+        "rev": "1ebde3d4253778088b7c585a42ecec061ca5b4d1",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Mousai-rb.git"
       },
@@ -1475,11 +1475,11 @@
         "utils": "utils_55"
       },
       "locked": {
-        "lastModified": 1794021848,
-        "narHash": "sha256-q+4Ih1M1MI2pjQE7PssD8nP0YNkmJF2R5n8vyhgidJg=",
+        "lastModified": 1794111411,
+        "narHash": "sha256-ztCpNdxAyRhkAy/vBJEsRMjVKjszVODC05onqeo0OpM=",
         "ref": "ruby",
-        "rev": "bec8590d3b43c149d07725f1ade8699b6d0a3091",
-        "revCount": 22,
+        "rev": "3ca66eea6f084ee30a500622659b2665c2b355a6",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/nautilus-rb.git"
       },
@@ -1513,11 +1513,11 @@
         "utils": "utils_56"
       },
       "locked": {
-        "lastModified": 1794026083,
-        "narHash": "sha256-jTspoLOOyeGxNbWQ6vBSyGyhqHKAuo2QT0PhOHMCJq0=",
+        "lastModified": 1794071855,
+        "narHash": "sha256-Kw/sVpS/QkZuCtDe1F3QQmEoWLPC/qNPva3VGcLroUc=",
         "ref": "ruby",
-        "rev": "bafed4fc8c9c6e07f68ef8f12069b84f24e956e1",
-        "revCount": 33,
+        "rev": "93b0db1fb30a9fd5390ce9c2885ab70756f6732e",
+        "revCount": 38,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Paper-Clip-rb.git"
       },
@@ -1535,11 +1535,11 @@
         "utils": "utils_57"
       },
       "locked": {
-        "lastModified": 1794011942,
-        "narHash": "sha256-A4kpXqZ2w3Er4qgTbEa6LT7VeKqr9kdoDsCuOqADZNk=",
+        "lastModified": 1794113160,
+        "narHash": "sha256-fX5zsWkraklhKBUfXDZ1Z5UuOklVpwZhLeraFAZEW4I=",
         "ref": "ruby",
-        "rev": "97311e48c0a36fa2ee73c8e02cf56e9ac0220c6d",
-        "revCount": 22,
+        "rev": "b3d659f3f1fb16d89b8f83f2aae8538d2a134c1b",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/papers-rb.git"
       },
@@ -1557,11 +1557,11 @@
         "utils": "utils_58"
       },
       "locked": {
-        "lastModified": 1794021240,
-        "narHash": "sha256-KblVWsfaQq+TO0vdqe3350YeWNizBuai0Hi8r0B3maY=",
+        "lastModified": 1794107900,
+        "narHash": "sha256-j3WBCGpVZ5DSGFpMOBOpx5zsIcptn1PxKMTLLrEW36o=",
         "ref": "ruby",
-        "rev": "b15d2e7331d2e2b1ebee69f48d1ca421dee377b1",
-        "revCount": 22,
+        "rev": "f4ffec3f1f63b56821f8a08721bf5c2bdac34a99",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/pika-backup-rb.git"
       },
@@ -1579,11 +1579,11 @@
         "utils": "utils_59"
       },
       "locked": {
-        "lastModified": 1794022421,
-        "narHash": "sha256-IJgZ/ckKMcutMwA4b2UGt0DzQAxDEJMrRs6Zoi/e8cQ=",
+        "lastModified": 1794110307,
+        "narHash": "sha256-r/wn7wR7wpeytg1r8+w5m4E5HVFAl1hZ34UHMXKLB0o=",
         "ref": "ruby",
-        "rev": "5cbce021ab578f7eb23f5d0ccce40ed818b5df5e",
-        "revCount": 3042,
+        "rev": "2a6800f507fad36bcbba68cc8a922933a0e99909",
+        "revCount": 3050,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/planify-rb.git"
       },
@@ -1601,11 +1601,11 @@
         "utils": "utils_60"
       },
       "locked": {
-        "lastModified": 1794012700,
-        "narHash": "sha256-4/asxdal2TyPak0GVPvcy/YmkrkBu50rw6zkDBZOpKU=",
+        "lastModified": 1794113530,
+        "narHash": "sha256-1BPY0tsipY1geGiKW86UJ4grtD5vodbHxdgo7k1EuoE=",
         "ref": "ruby",
-        "rev": "cafc84edcadbfc760295bd69ad7ca44263cc0eb5",
-        "revCount": 20,
+        "rev": "15f75d2237eeb9d6cc2bd52df796325acd90cc5a",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/polari-rb.git"
       },
@@ -1623,11 +1623,11 @@
         "utils": "utils_61"
       },
       "locked": {
-        "lastModified": 1794025423,
-        "narHash": "sha256-c0p5a47ZTqrnhw4aAYMkNHjDq0d5tFRqbNYgkFJqCSg=",
+        "lastModified": 1794071231,
+        "narHash": "sha256-+7pu+aJi+2gSVM9v1adv46NL987s0ndbC/4heOs0mwk=",
         "ref": "ruby",
-        "rev": "c4009132fc62763c3c82f94f870a41ae577d8964",
-        "revCount": 32,
+        "rev": "4c98c4932c9a550013ab8d882dec767467ac1c08",
+        "revCount": 37,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/raider-rb.git"
       },
@@ -1645,11 +1645,11 @@
         "utils": "utils_62"
       },
       "locked": {
-        "lastModified": 1794021273,
-        "narHash": "sha256-5uaQKMYaJ6aWaDzFO59CDXZnnSf3cHGNJLyWJZE4P28=",
+        "lastModified": 1794102843,
+        "narHash": "sha256-ySt3tz3qY1UkqN1Pf4ovufJGFDyjdsk80YyMbnd/bck=",
         "ref": "ruby",
-        "rev": "dc4be8abcb59e686d273e54e5d4fed885b529837",
-        "revCount": 22,
+        "rev": "a9378a3ea0e47bc7202a6ef13394ba9fc7ef4a6f",
+        "revCount": 30,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/resources-rb.git"
       },
@@ -1762,11 +1762,11 @@
         "utils": "utils_63"
       },
       "locked": {
-        "lastModified": 1794021498,
-        "narHash": "sha256-K+29KQPWaD5yt+GxI5KewC3RI5xIiylVVfcz6XswNqY=",
+        "lastModified": 1794072086,
+        "narHash": "sha256-qxOCLYRPYS8pzaevb+RkXw0Y51euynTJr0CRlVj8pls=",
         "ref": "ruby",
-        "rev": "cc2c04c208479a8ffc50e5f09d6651088a97b797",
-        "revCount": 37,
+        "rev": "152544fd13b694505a4b4c72b0c11f126dd6d012",
+        "revCount": 43,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/sessions-rb.git"
       },
@@ -1784,11 +1784,11 @@
         "utils": "utils_64"
       },
       "locked": {
-        "lastModified": 1794015042,
-        "narHash": "sha256-duLwrW6uTcw6Hvtn3yYHqLeojz9r5yz3mQ9DGk4t9RQ=",
+        "lastModified": 1794112164,
+        "narHash": "sha256-E55EokEP9odQNjwiSMJ1nP0t2rhSjyxno5PaP0T7fSQ=",
         "ref": "ruby",
-        "rev": "5ea68dd99ddd8a804b1e8b87639c1063efc41431",
-        "revCount": 23,
+        "rev": "51dd908ebef55a6b818db1427cbc7dc55da3a58a",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/share-preview-rb.git"
       },
@@ -1806,11 +1806,11 @@
         "utils": "utils_65"
       },
       "locked": {
-        "lastModified": 1794020744,
-        "narHash": "sha256-JNI4EQ6gGUunSCJCk5uc3p6AzMh5zY1c1ouPklbWgK8=",
+        "lastModified": 1794101421,
+        "narHash": "sha256-/GALuQjfDO7IJMS5LPMDyE5DSF7t5T/HOz2S9Ru4RFU=",
         "ref": "ruby",
-        "rev": "4fd843a8447ec996a4d61f656cd7658a7dbbfcba",
-        "revCount": 24,
+        "rev": "21978e6e356137bb51e07400fb3b94e99521bcca",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/showtime-rb.git"
       },
@@ -1828,11 +1828,11 @@
         "utils": "utils_66"
       },
       "locked": {
-        "lastModified": 1794020792,
-        "narHash": "sha256-nS1TfnCPlkjcHwZDONWm4M8wBjLYx2Xoo5OJOgZBKr0=",
+        "lastModified": 1794112569,
+        "narHash": "sha256-YTllRD9wDSJC5HSqkhzo1uRG6MUv4JlgRLOAOONE0x0=",
         "ref": "ruby",
-        "rev": "6e5c69e87b1ab02f66192fdc1cc90acfa85de436",
-        "revCount": 26,
+        "rev": "a0aafdd0a9897989d0325d3797b6f19b12b75fcb",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/simple-scan-rb.git"
       },
@@ -1850,11 +1850,11 @@
         "utils": "utils_67"
       },
       "locked": {
-        "lastModified": 1794020141,
-        "narHash": "sha256-v53d/yNSXENUdII7OKr3ZYk6wip68hBQOQgurMECjPw=",
+        "lastModified": 1794109539,
+        "narHash": "sha256-2xEWWXRQhks7zu9xhvDFcF7HOdsM976lIRRB2X6hZic=",
         "ref": "ruby",
-        "rev": "2aa73ab4042e38c969683969ca9322a96e0e628f",
-        "revCount": 22,
+        "rev": "e94aa80e7fd694a38591639b25cde5cd3e451b24",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/snapshot-rb.git"
       },
@@ -1872,11 +1872,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794019743,
-        "narHash": "sha256-4HIWIxw9PxRqqTcNNkaph6hqZO46EWwVjDcB4qa6/8M=",
+        "lastModified": 1794113089,
+        "narHash": "sha256-+Hdo74JW85qiAVS+yVVzEYpLIESb3Z2F6I3x6g7vmBo=",
         "ref": "ruby",
-        "rev": "63fce022103294da0565d4848f9811bb51e63a7c",
-        "revCount": 25,
+        "rev": "35f16d9227057bc3d51c47e0de6082473064260d",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Solanum-rb.git"
       },
@@ -1894,11 +1894,11 @@
         "utils": "utils_68"
       },
       "locked": {
-        "lastModified": 1794025153,
-        "narHash": "sha256-L+t+Y6uoBjhu6Ycg0YoIEottRa3BfkiK4OCo2xqtjJ8=",
+        "lastModified": 1794112278,
+        "narHash": "sha256-qwiqw+PflYaaEehoiVZBJ0wo6iE8r3c2Nb8bBVjr0/Y=",
         "ref": "ruby",
-        "rev": "a1192eb59e420398375ce7e17dbb01a152ff2343",
-        "revCount": 21,
+        "rev": "0cdc5685e9186dac402ba28ca6ff34c43673512d",
+        "revCount": 29,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Sudoku-rb.git"
       },
@@ -1916,11 +1916,11 @@
         "utils": "utils_69"
       },
       "locked": {
-        "lastModified": 1794025138,
-        "narHash": "sha256-tTWr8kyrWuoRV3KaryjLp32fsukEBNQanL03W86iUPc=",
+        "lastModified": 1794070957,
+        "narHash": "sha256-jknB+Dm9WRbUeZ3HM83fbXuGUaT0aQ/K5YBiWT+xV4Q=",
         "ref": "ruby",
-        "rev": "01c68e8d7d174351b9f0afba59c4be580257cc85",
-        "revCount": 30,
+        "rev": "f5c4cd4d6df32a889ea37e82aff16fbe72629e56",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Switcheroo-rb.git"
       },
@@ -3258,11 +3258,11 @@
         "utils": "utils_70"
       },
       "locked": {
-        "lastModified": 1794026044,
-        "narHash": "sha256-cl2dK0t0L3n2nZD8dl90EUXxjoIHcHzr+oOW2gZ9QgQ=",
+        "lastModified": 1794071441,
+        "narHash": "sha256-YL6caGpwXQiVVITkbPoDQq5hyWlLmInyFy0IF0S673A=",
         "ref": "ruby",
-        "rev": "367b1e5092d2d8906440ec8d7e5467cacf823ae5",
-        "revCount": 31,
+        "rev": "61d0063f30e963996fb5e3db762627a12cd1e595",
+        "revCount": 36,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/tally-rb.git"
       },
@@ -3280,11 +3280,11 @@
         "utils": "utils_71"
       },
       "locked": {
-        "lastModified": 1794018598,
-        "narHash": "sha256-jalH3l1IBIFsr3kIDdWIoqiEZb454LgMpqLIaTUwbN8=",
+        "lastModified": 1794111648,
+        "narHash": "sha256-uBC9XHhoP/43trGdsoThdyARF1rC3I6XHYMlMChqtEI=",
         "ref": "ruby",
-        "rev": "fa04c937d80885c817d73d7ea838c50c9e396071",
-        "revCount": 24,
+        "rev": "0cde6edbf0cc124a544cd2264d7e8d1ae23a7774",
+        "revCount": 34,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Tangram-rb.git"
       },
@@ -3302,11 +3302,11 @@
         "utils": "utils_72"
       },
       "locked": {
-        "lastModified": 1794024458,
-        "narHash": "sha256-CNOSGDI8+9Z+Go8TVk2Ro3WNzxA0UdRmGjOODMFZoi8=",
+        "lastModified": 1794102395,
+        "narHash": "sha256-QLbTJgmBwsH2dQ24tM714NGPxIHGIPGzl+Ori1YlaQ8=",
         "ref": "ruby",
-        "rev": "3b65fc7e21ce5972fa1dd8354b2b452574aea502",
-        "revCount": 22,
+        "rev": "2ee983f702d216234c7d48bf4b59f77e00ed02ee",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/textpieces-rb.git"
       },
@@ -3324,11 +3324,11 @@
         "utils": "utils_73"
       },
       "locked": {
-        "lastModified": 1794025731,
-        "narHash": "sha256-l0CF0X7nvtgdh0DVHIdWXAA4WRcd8nhzPiA26iEYS1U=",
+        "lastModified": 1794111496,
+        "narHash": "sha256-HVLf/YyCtrxadrUxfbgmXo479pDs/5NuPzjY35hUdwM=",
         "ref": "ruby",
-        "rev": "9f14cac0b1b06552c7d0652fa0113f0c45494127",
-        "revCount": 24,
+        "rev": "d366645228076f42c7146380c2be8128470b3a85",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Tuba-rb.git"
       },
@@ -4786,11 +4786,11 @@
         "utils": "utils_74"
       },
       "locked": {
-        "lastModified": 1794019034,
-        "narHash": "sha256-Z1pvo/IX87hHxankqWhseHOWVdZQx3vPhRZpx3lTUbk=",
+        "lastModified": 1794111534,
+        "narHash": "sha256-ZW5Yj3ilKcNy+bG0D3lQg835n3hQoV05VJkymfwY6tA=",
         "ref": "ruby",
-        "rev": "f9bbc76b75e2dc96a7aac7e45d04f35493c17086",
-        "revCount": 24,
+        "rev": "46be02216b9b04b8700eb4b8e7130982ba9091b4",
+        "revCount": 33,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/valuta-rb.git"
       },
@@ -4808,11 +4808,11 @@
         "utils": "utils_75"
       },
       "locked": {
-        "lastModified": 1794020704,
-        "narHash": "sha256-Ijfpvmwveuo9MXJipHEoboTsDZW+gM28L2YsZ3oAXes=",
+        "lastModified": 1794110355,
+        "narHash": "sha256-Mq1nh3BamdeUfRDU2UAFopb9ZWq29BSoaZyFQKJM5KM=",
         "ref": "ruby",
-        "rev": "91418b9378d6a0b03ee6d239c382093c7d479be4",
-        "revCount": 22,
+        "rev": "a54b6229d3a225d47590440155e1d85fd6386197",
+        "revCount": 31,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/webfont-kit-generator-rb.git"
       },
@@ -4830,11 +4830,11 @@
         "utils": "utils_76"
       },
       "locked": {
-        "lastModified": 1794023251,
-        "narHash": "sha256-jJb4InV6E8ERYmUv/x2guUjbf1SzLOR46SCzvqwNvRs=",
+        "lastModified": 1794102028,
+        "narHash": "sha256-a23+OAt3rtDUh4zv2Jk3QpBsNe4lJHZIA33ebEFhYag=",
         "ref": "ruby",
-        "rev": "b136b83a71ab7e40257d77c0bdcf99d7826a6a0d",
-        "revCount": 22,
+        "rev": "8a41b46a70dc88f1430407c4523ca4ebef1a6eec",
+        "revCount": 29,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Wike-rb.git"
       },
@@ -4852,11 +4852,11 @@
         "utils": "utils_77"
       },
       "locked": {
-        "lastModified": 1794024378,
-        "narHash": "sha256-5+CsfJs/Cg+supEc9J1rxKmwWvg5TUd9hbvxKg1pnzM=",
+        "lastModified": 1794069935,
+        "narHash": "sha256-5P74fpHOJheDz2xzPC2W9PH2n7+M8Z34XPq/TYxXRSk=",
         "ref": "ruby",
-        "rev": "665cb58f2e0dfaab5eecc14a2ffc7e289cc9dd19",
-        "revCount": 36,
+        "rev": "b41332954d577523be2d8085d3f6f5844cda2e64",
+        "revCount": 40,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Wordbook-rb.git"
       },
@@ -4917,11 +4917,11 @@
         "utils": "utils_79"
       },
       "locked": {
-        "lastModified": 1794023774,
-        "narHash": "sha256-6Cnr+3v5m4EQzZbJ28OEUpwDh46OMw+W3uE0jovSzLA=",
+        "lastModified": 1794105080,
+        "narHash": "sha256-EwD/R4EjYalfS9SV9i2SU5YnORUUL0iiSBbUjszNDKA=",
         "ref": "ruby",
-        "rev": "4353dd3d0cdb9bc5c9456e9cf3b22899ce80faee",
-        "revCount": 23,
+        "rev": "95e16ff742c19b55ec58d2c95f24f48a66260ef4",
+        "revCount": 35,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/Workbench-rb.git"
       },
@@ -4939,11 +4939,11 @@
         "utils": "utils_80"
       },
       "locked": {
-        "lastModified": 1794012760,
-        "narHash": "sha256-kngYUcPfWZxolaz32rIn9YCImSj2kwrqRTuaZhnBWh8=",
+        "lastModified": 1794114735,
+        "narHash": "sha256-J2jXEL+uHDtDppPjRn6b00B+u4XZ4RyzUxG1fpuTu6w=",
         "ref": "ruby",
-        "rev": "ceb12dd43d9e8a3c42f743fec3010b8435e7a3af",
-        "revCount": 20,
+        "rev": "734a60be94ee9eb435b6ebd9c62a33f93ce34d6e",
+        "revCount": 32,
         "type": "git",
         "url": "https://github.com/ruby-gtk-project/yelp-rb.git"
       },
